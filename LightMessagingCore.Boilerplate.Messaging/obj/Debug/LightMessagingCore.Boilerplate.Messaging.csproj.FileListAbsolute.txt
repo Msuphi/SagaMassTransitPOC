@@ -1,0 +1,5 @@
+C:\Users\mustafasuphi.kolu\documents\visual studio 2017\Projects\LightMessagingCore.Boilerplate\LightMessagingCore.Boilerplate.Messaging\bin\Debug\LightMessagingCore.Boilerplate.Messaging.dll
+C:\Users\mustafasuphi.kolu\documents\visual studio 2017\Projects\LightMessagingCore.Boilerplate\LightMessagingCore.Boilerplate.Messaging\bin\Debug\LightMessagingCore.Boilerplate.Messaging.pdb
+C:\Users\mustafasuphi.kolu\documents\visual studio 2017\Projects\LightMessagingCore.Boilerplate\LightMessagingCore.Boilerplate.Messaging\obj\Debug\LightMessagingCore.Boilerplate.Messaging.csprojResolveAssemblyReference.cache
+C:\Users\mustafasuphi.kolu\documents\visual studio 2017\Projects\LightMessagingCore.Boilerplate\LightMessagingCore.Boilerplate.Messaging\obj\Debug\LightMessagingCore.Boilerplate.Messaging.dll
+C:\Users\mustafasuphi.kolu\documents\visual studio 2017\Projects\LightMessagingCore.Boilerplate\LightMessagingCore.Boilerplate.Messaging\obj\Debug\LightMessagingCore.Boilerplate.Messaging.pdb

@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LightMessagingCore.Boilerplate.Common", "LightMessagingCore.Boilerplate.Common\LightMessagingCore.Boilerplate.Common.csproj", "{7E1DCB38-5503-4542-A5B2-8D24C908B3D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LightMessagingCore.Boilerplate.Messaging", "LightMessagingCore.Boilerplate.Messaging\LightMessagingCore.Boilerplate.Messaging.csproj", "{303D0F87-1B44-4127-89D3-E1E1B9314080}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LightMessagingCore.Boilerplate.OrderUI", "LightMessagingCore.Boilerplate.OrderUI\LightMessagingCore.Boilerplate.OrderUI.csproj", "{A5DD5A98-718C-41F0-9F71-5CC8E2B6B6F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boilerplate.OrderService", "Boilerplate.OrderService\Boilerplate.OrderService.csproj", "{DE500CE0-22F2-4FA4-8899-3F5241C7131E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boilerplate.BillingService", "Boilerplate.BillingService\Boilerplate.BillingService.csproj", "{AA8521B0-EF86-4D15-98AB-CC2E0574E4CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LightMessagingCore.Boilerplate.Saga", "LightMessagingCore.Boilerplate.Saga\LightMessagingCore.Boilerplate.Saga.csproj", "{15C71BD6-DC95-446C-8D3F-D156FB26CD55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E1DCB38-5503-4542-A5B2-8D24C908B3D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E1DCB38-5503-4542-A5B2-8D24C908B3D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E1DCB38-5503-4542-A5B2-8D24C908B3D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E1DCB38-5503-4542-A5B2-8D24C908B3D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{303D0F87-1B44-4127-89D3-E1E1B9314080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{303D0F87-1B44-4127-89D3-E1E1B9314080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{303D0F87-1B44-4127-89D3-E1E1B9314080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{303D0F87-1B44-4127-89D3-E1E1B9314080}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5DD5A98-718C-41F0-9F71-5CC8E2B6B6F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5DD5A98-718C-41F0-9F71-5CC8E2B6B6F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5DD5A98-718C-41F0-9F71-5CC8E2B6B6F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5DD5A98-718C-41F0-9F71-5CC8E2B6B6F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE500CE0-22F2-4FA4-8899-3F5241C7131E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE500CE0-22F2-4FA4-8899-3F5241C7131E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE500CE0-22F2-4FA4-8899-3F5241C7131E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE500CE0-22F2-4FA4-8899-3F5241C7131E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA8521B0-EF86-4D15-98AB-CC2E0574E4CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA8521B0-EF86-4D15-98AB-CC2E0574E4CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA8521B0-EF86-4D15-98AB-CC2E0574E4CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA8521B0-EF86-4D15-98AB-CC2E0574E4CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15C71BD6-DC95-446C-8D3F-D156FB26CD55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15C71BD6-DC95-446C-8D3F-D156FB26CD55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15C71BD6-DC95-446C-8D3F-D156FB26CD55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15C71BD6-DC95-446C-8D3F-D156FB26CD55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
